@@ -1,7 +1,7 @@
 # Hi there 👋
 
 I’m **Kirjey**, a backend developer and automator in **Web3**.  
-I’ve been coding since I was **16**, building tools, bots, and infrastructure for blockchain ecosystems.  
+I’ve been coding since I was **15**, building tools, bots, and infrastructure for blockchain ecosystems.  
 
 ## 🚀 What I do
 - Backend services with Node.js, Express, NestJS  
