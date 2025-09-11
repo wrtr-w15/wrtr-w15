@@ -1,5 +1,3 @@
-# Hi there 👋
-
 I’m **Kirjey**, a backend developer and automator in **Web3**.  
 I’ve been coding since I was **15**, building tools, bots, and infrastructure for blockchain ecosystems.  
 
