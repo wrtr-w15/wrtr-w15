@@ -1,10 +1,24 @@
-I’m **Kirjey**, a backend developer and automator in **Web3**.  
-I’ve been coding since I was **15**, building tools, bots, and infrastructure for blockchain ecosystems.  
+### Hi, I'm Kirill Kuchenev-Polodienko 👋
 
-- Backend services with Node.js, Express, NestJS  
-- Automations and bots for Web3 projects  , CRM using n8n and more.
-- API integrations, databases, and cloud tools  
-- Crypto wallet scripts, testnet workflows, on-chain data  
+18 y/o developer with 8+ years of hands-on experience.
+Started with C++ at 10, now focused on browser automation & JS/TS development.
+
+**What I do**
+🤖 Browser automation — Afina Browser, DevTools, custom JS modules
+🌐 Full-stack web apps — Next.js, Nest.js, Telegram bots, crypto payments
+⛓️ Web3 scripting — testnet automation, multi-account workflows
+📚 Technical education — ran JS & scripting courses for the Afina community
+
+**Stack**
+JavaScript · TypeScript · Next.js · Nest.js · Python · HTML/CSS · C# · C++ (fundamentals)
+
+**Highlights**
+• 1.5 years on the Afina Browser team — tech support + public module development
+• Co-founded a private software community: built full website, Telegram payment bot with crypto integration
+• Delivered automation on demand for 100+ users
+• Taught scripting fundamentals to new developers
+
+📬 Open to junior roles, internships & freelance projects
 
 
 
