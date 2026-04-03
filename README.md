@@ -1,24 +1,97 @@
-### Hi, I'm Kirill Kuchenev-Polodienko 👋
+# Kirill Kuchenev-Polodienko
 
-18 y/o developer with 8+ years of hands-on experience.
-Started with C++ at 10, now focused on browser automation & JS/TS development.
+**Automation Engineer | JavaScript / TypeScript Developer | Browser Automation**
 
-**What I do**
-🤖 Browser automation — Afina Browser, DevTools, custom JS modules
-🌐 Full-stack web apps — Next.js, Nest.js, Telegram bots, crypto payments
-⛓️ Web3 scripting — testnet automation, multi-account workflows
-📚 Technical education — ran JS & scripting courses for the Afina community
+I am a developer focused on **automation engineering**, **browser-based workflows**, and **JavaScript/TypeScript solutions**.
 
-**Stack**
-JavaScript · TypeScript · Next.js · Nest.js · Python · HTML/CSS · C# · C++ (fundamentals)
+I started programming at an early age and built my background through practical work in scripting, browser automation, internal tools, and full-stack web development.  
+Today, my main focus is designing and building **automation systems**, **custom modules**, and **scalable workflows** for real-world tasks.
 
-**Highlights**
-• 1.5 years on the Afina Browser team — tech support + public module development
-• Co-founded a private software community: built full website, Telegram payment bot with crypto integration
-• Delivered automation on demand for 100+ users
-• Taught scripting fundamentals to new developers
+---
 
-📬 Open to junior roles, internships & freelance projects
+## About Me
+
+- **Automation Engineer** with hands-on experience in browser automation and workflow scripting
+- Strong focus on **practical engineering**, not just theory
+- Experienced in building tools for **multi-account workflows**, **task automation**, and **Web3-related processes**
+- Interested in **automation infrastructure**, **backend systems**, and **developer tools**
+- Open to **junior roles**, **internships**, and **freelance projects**
+
+---
+
+## Main Focus
+
+My primary direction is **Automation Engineering**.
+
+I work on:
+- browser automation
+- custom JS/TS modules
+- workflow scripting
+- process scaling
+- automation tools for repetitive and high-volume tasks
+- technical problem-solving for real user scenarios
+
+---
+
+## Technical Skills
+
+### Languages
+- JavaScript
+- TypeScript
+- Python
+- C#
+- C++ *(fundamentals)*
+- HTML / CSS
+
+### Frameworks & Tools
+- Next.js
+- Nest.js
+- Telegram Bot development
+- Browser DevTools
+- Custom browser-based automation systems
+
+### Areas of Work
+- Browser Automation
+- Workflow Automation
+- JavaScript / TypeScript Development
+- Web3 Scripting
+- Full-Stack Development
+- Internal Tools & Utility Development
+
+---
+
+## Experience Highlights
+
+- Worked with **browser automation systems** and custom scripting solutions in production-like environments
+- Built and supported **automation workflows** for a large number of users
+- Developed **custom modules** and technical solutions for browser-based automation
+- Participated in **technical support**, troubleshooting, and user-facing engineering tasks
+- Helped teach **JavaScript and scripting fundamentals** inside a technical community
+- Built full-stack solutions including websites, bots, and payment-related integrations
+
+---
+
+## What I Build
+
+- automation scripts
+- browser workflows
+- custom developer tools
+- Telegram bots
+- internal dashboards
+- web applications
+- process-oriented utilities for scaling repetitive tasks
+
+---
+
+## Career Goal
+
+I am currently targeting roles related to:
+
+- **Automation Engineer**
+- **QA Automation Engineer**
+- **JavaScript / TypeScript Developer**
+- **Junior Backend Developer**
+- **Technical Automation Specialist**
 
 
 
