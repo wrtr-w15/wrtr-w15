@@ -56,8 +56,6 @@ Scripts built for the Afina Browser anti-detect platform and commercial clients.
 
 <div align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wrtr-w15&layout=compact&theme=radical&hide_border=true&langs_count=6)
-
 [![GitHub Streak](https://streak-stats.demolab.com?user=wrtr-w15&theme=radical&hide_border=true)](https://git.io/streak-stats)
 
 </div>
