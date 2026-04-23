@@ -54,9 +54,13 @@ Scripts built for the Afina Browser anti-detect platform and commercial clients.
 
 ## Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=wrtr-w15&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wrtr-w15&layout=compact&theme=default&hide_border=true&langs_count=6)
+<div align="center">
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wrtr-w15&layout=compact&theme=radical&hide_border=true&langs_count=6)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=wrtr-w15&theme=radical&hide_border=true)](https://git.io/streak-stats)
+
+</div>
 ---
 
 *Open to remote Automation Engineer and Junior JS/TS Developer positions. References and code samples available on request.*
